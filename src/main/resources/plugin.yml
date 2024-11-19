@@ -1,0 +1,6 @@
+name: ClearLog
+version: '1.0-SNAPSHOT'
+main: top.xianbei235.clearLog.ClearLog
+authors: [ xianbei235 ]
+description: 定时清理服务器垃圾日志文件-懒人低配服务器必备
+website: https://github.com/xianbei234
